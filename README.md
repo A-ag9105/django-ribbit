@@ -1,4 +1,4 @@
-django-ribbit
+django-ribbit : Amazing web application
 =============
 
 Ribbit - A Twitter Clone made using Django
